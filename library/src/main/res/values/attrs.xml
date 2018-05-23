@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CellState">
+        <attr name="state_date_regular" format="boolean" />
+        <attr name="state_date_today" format="boolean" />
+        <attr name="state_date_outside_month" format="boolean" />
+        <attr name="state_date_outside_max_date" format="boolean" />
+    </declare-styleable>
+</resources>
